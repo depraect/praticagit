@@ -2,4 +2,6 @@
 	
 	alert("Hola Mundo!");
 
+	/**   comentario  */
+
 })();

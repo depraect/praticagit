@@ -1,2 +1,0 @@
-# praticagit
-practica git
